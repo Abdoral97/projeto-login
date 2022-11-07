@@ -99,6 +99,7 @@ div.campo > input{
 }
 div.campo > input:focus-within{ /*quando estiver digitando a caixa fica branca*/
     background-color: white;
+    outline: none;
 }
 
 input[type=submit]{
