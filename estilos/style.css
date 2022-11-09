@@ -41,9 +41,6 @@ main{
     height: 510px;
     border-radius: 20px;
     box-shadow: 00px 00px 10px rgba(0, 0, 0, 0.445) ;
-
-    transition: width 0.3s height 0.3s;
-    transition-timing-function: ease;
     transform: translate(-50%, -50%);/*Posição da tela de login, fazendo com que ela fique no centro.*/
 
 }
